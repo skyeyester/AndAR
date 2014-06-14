@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_ok"
+        android:title="@string/menu_ok"
+        android:orderInCategory="100" />
+    
+    <item android:id="@+id/menu_reset"
+        android:title="@string/menu_reset"
+        android:orderInCategory="100" />
+</menu>
